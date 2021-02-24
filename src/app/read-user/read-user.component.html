@@ -1,0 +1,24 @@
+<div class="container-fluid col-md-9">
+  <h2>Read User</h2>
+  <table class="table">
+    <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">UserName</th>
+      <th scope="col">Password</th>
+      <th scope="col">Confirm Password</th>
+      <th scope="col">Actions</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr *ngFor="let items of user let no=index">
+      <th scope="row">{{no+1}}</th>
+      <td>{{items.userName}}</td>
+      <td>{{items.password}}</td>
+      <td>{{items.confirmPassword}}</td>
+      <td><button type="submit" class="btn btn-success mr-2" routerLink="/update-user" >Edit</button>
+      <button type="submit" class="btn btn-danger" (click)="delete(no)">Delete</button></td>
+    </tr>
+    </tbody>
+  </table>
+</div>
