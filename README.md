@@ -37,15 +37,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faizanshaikh12&show_icons=true&theme=radical" alt="Faizan's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizanshaikh12&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
 ### 🌐 Connect with Me
 
 <p align="center">
