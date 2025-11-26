@@ -99,7 +99,7 @@
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Faizan07?theme=dark&font=Inter&ext=contest)](https://leetcode.com/Faizan07)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/fs07?theme=dark&font=Inter&ext=contest)](https://leetcode.com/Faizan07)
 
 </div>
 
